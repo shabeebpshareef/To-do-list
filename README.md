@@ -28,7 +28,7 @@ To Visit App:
 
 `localhost:3000/`  
 
-## Reflection
+## Project nutshell
 
   - A simple To-do list where you can list and sort the task in different columns as To-do, doing and done.
   - Created using React.js library and Bootstrap framework.
